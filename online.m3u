@@ -1,45 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
-http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) (HTTP 408 Request Timeout)
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=29&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) (HTTP 408 Request Timeout)
-http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=29&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) (HTTP 408 Request Timeout)
-http://183.207.248.71/cntv/live1/cctv-1/cctv-1
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) (HTTP 408 Request Timeout)
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (576p) (HTTP 408 Request Timeout)
-http://183.207.248.71/gitv/live1/G_CCTV-1/G_CCTV-1
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
-http://223.110.243.138/PLTV/3/224/3221226316/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (576p) (HTTP 408 Request Timeout)
-http://223.110.245.139/PLTV/4/224/3221225852/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (576p) (HTTP 408 Request Timeout)
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) (HTTP 408 Request Timeout)
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) (HTTP 408 Request Timeout)
-http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="timeout",CCTV-1综合 (1080p) (HTTP 408 Request Timeout)
-http://223.110.245.170/PLTV/3/224/3221226316/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) (HTTP 408 Request Timeout)
-http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSessionId=OTT16157620200202041417014267&fmt=ts2hls&u=45768392
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) (HTTP 408 Request Timeout)
-http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) (HTTP 408 Request Timeout)
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=80&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
-http://183.207.248.71/cntv/live1/cctv-3/cctv-3
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) (HTTP 408 Request Timeout)
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv3/HD-2500k-1080P-cctv3
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) (HTTP 408 Request Timeout)
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227295/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (1080p) (HTTP 408 Request Timeout)
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" status="timeout",CCTV-3综艺 (576p) (HTTP 408 Request Timeout)
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://117.169.120.140:8080/live/cctv-1/.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
+http://183.207.249.35/PLTV/4/224/3221227295/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (480p) [Not 24/7]
+http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
