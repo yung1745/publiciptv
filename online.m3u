@@ -20,44 +20,10 @@ http://117.169.120.140:8080/live/cctv-10/.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13新闻 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",CCTV-4中文国际 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",湖南卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",浙江卫视 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="" status="online",浙江少儿 (1080p)
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",江苏卫视 (1080p)
-http://112.25.48.68/live/program/live/jswshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",江苏卫视 (1080p)
-http://183.207.248.71/cntv/live1/jiangsustv/jiangsustv
-#EXTINF:-1 tvg-id="" status="timeout",江苏卫视 (1080p)
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",江苏卫视 (1080p)
-http://223.110.245.170/PLTV/3/224/3221227255/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",江苏卫视 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",江苏卫视 (1080p)
-http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
-#EXTINF:-1 tvg-id="" status="online",江苏卫视 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 tvg-id="",湖南卫视 (1080p)
-http://223.110.245.170/PLTV/3/224/3221227191/index.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视 (1080p)
-http://223.110.254.134:6610/cntv/live1/hunanstv/hunanstv/1.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视 (1080p)
-http://223.110.245.168/PLTV/4/224/3221227320/index.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视 (1080p)
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视 (1080p)
-http://223.110.245.139/PLTV/4/224/3221227404/index.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视 (1080p)
-http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视 (1080p)
-http://183.207.248.71/cntv/live1/hunanstv/hunanstv
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视 (1080p)
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
-#EXTINF:-1 tvg-id="" status="timeout",湖南卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="" status="online",湖南卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
